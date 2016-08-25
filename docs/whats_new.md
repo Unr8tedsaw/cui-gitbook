@@ -12,7 +12,9 @@ In order to know what is the latest and greatest each project repository will ma
 
 ### CUI Angular Library
 
-View Change Log
+Refer to changelog documented in the readme.md file in each individual directives.
+
+[View CUI-NG directive](https://github.com/Covisint/cui-ng)
 
 ### CUI Style Guide
 
